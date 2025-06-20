@@ -1,0 +1,5 @@
+openai-whisper
+torch
+ffmpeg-python 
+setuptools
+numpy<2.0
